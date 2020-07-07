@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-react/static/css/main.de4b8acf.chunk.css",
+    "main.js": "/weather-react/static/js/main.bcbbca84.chunk.js",
+    "main.js.map": "/weather-react/static/js/main.bcbbca84.chunk.js.map",
+    "runtime-main.js": "/weather-react/static/js/runtime-main.17cf43c5.js",
+    "runtime-main.js.map": "/weather-react/static/js/runtime-main.17cf43c5.js.map",
+    "static/js/2.a5ddeacf.chunk.js": "/weather-react/static/js/2.a5ddeacf.chunk.js",
+    "static/js/2.a5ddeacf.chunk.js.map": "/weather-react/static/js/2.a5ddeacf.chunk.js.map",
+    "index.html": "/weather-react/index.html",
+    "precache-manifest.2d691b46772c00166769c8c778258b30.js": "/weather-react/precache-manifest.2d691b46772c00166769c8c778258b30.js",
+    "service-worker.js": "/weather-react/service-worker.js",
+    "static/css/main.de4b8acf.chunk.css.map": "/weather-react/static/css/main.de4b8acf.chunk.css.map",
+    "static/js/2.a5ddeacf.chunk.js.LICENSE.txt": "/weather-react/static/js/2.a5ddeacf.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-react/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17cf43c5.js",
+    "static/js/2.a5ddeacf.chunk.js",
+    "static/css/main.de4b8acf.chunk.css",
+    "static/js/main.bcbbca84.chunk.js"
+  ]
+}
